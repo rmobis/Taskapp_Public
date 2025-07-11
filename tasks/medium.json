@@ -10719,6 +10719,26 @@
             "logName": "slayer",
             "include": [
                 {
+                    "id": 4119,
+                    "name": "Bronze boots"
+                },
+                {
+                    "id": 4121,
+                    "name": "Iron boots"
+                },
+                {
+                    "id": 4123,
+                    "name": "Steel boots"
+                },
+                {
+                    "id": 4125,
+                    "name": "Black boots"
+                },
+                {
+                    "id": 4127,
+                    "name": "Mithril boots"
+                },
+                {
                     "id": 4129,
                     "name": "Adamant boots"
                 },
@@ -10727,7 +10747,7 @@
                     "name": "Rune boots"
                 }
             ],
-            "logCount": 1
+            "logCount": 6
         },
         "uuid": "e2f3d47a-708a-4838-b07b-ed03cb09ccca"
     },
@@ -10743,6 +10763,26 @@
             "logName": "slayer",
             "include": [
                 {
+                    "id": 4119,
+                    "name": "Bronze boots"
+                },
+                {
+                    "id": 4121,
+                    "name": "Iron boots"
+                },
+                {
+                    "id": 4123,
+                    "name": "Steel boots"
+                },
+                {
+                    "id": 4125,
+                    "name": "Black boots"
+                },
+                {
+                    "id": 4127,
+                    "name": "Mithril boots"
+                },
+                {
                     "id": 4129,
                     "name": "Adamant boots"
                 },
@@ -10751,7 +10791,7 @@
                     "name": "Rune boots"
                 }
             ],
-            "logCount": 2
+            "logCount": 7
         },
         "uuid": "76f50ee9-9463-492f-8520-ab512bf3f1cb"
     },
