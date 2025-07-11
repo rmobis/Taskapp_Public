@@ -6,16 +6,6 @@
         "wikiLink": "https://oldschool.runescape.wiki/w/Infernal_cape",
         "wikiImage": "https://oldschool.runescape.wiki/images/Infernal_cape_detail.png?03de7",
         "assetImage": "Infernal_cape_detail.png",
-        "colLogData": {
-            "category": "Bosses",
-            "include": [
-                {
-                    "id": 21295,
-                    "name": "Infernal cape"
-                }
-            ],
-            "logCount": 1
-        },
         "uuid": "6b09384d-c06b-44ac-8a07-b7038cd30710"
     },
     {
@@ -25,15 +15,6 @@
         "wikiLink": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
         "wikiImage": "https://oldschool.runescape.wiki/images/Reward_casket_%28easy%29_detail.png?48840",
         "assetImage": "Reward_casket_easy_detail.png",
-        "colLogData": {
-            "include": [
-                {
-                    "id": 21295,
-                    "name": "Infernal cape"
-                }
-            ],
-            "logCount": 1
-        },
         "uuid": "b3352a94-c018-4bbe-9bfa-285fedc54bf7"
     },
     {
@@ -187,15 +168,6 @@
         "wikiLink": "https://oldschool.runescape.wiki/w/Minigames",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Minigames.png/246px-Minigames.png?d639f",
         "assetImage": "minigames.png",
-        "colLogData": {
-            "include": [
-                {
-                    "id": 21295,
-                    "name": "Infernal cape"
-                }
-            ],
-            "logCount": 10
-        },
         "uuid": "822e9cd4-4f93-458e-a71c-5aac2866d540"
     },
     {
