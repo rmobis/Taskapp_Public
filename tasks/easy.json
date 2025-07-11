@@ -7041,6 +7041,18 @@
                 {
                     "id": 6908,
                     "name": "Beginner wand"
+                },
+                {
+                    "id": 6910,
+                    "name": "Apprentice wand"
+                },
+                {
+                    "id": 6912,
+                    "name": "Teacher wand"
+                },
+                {
+                    "id": 6914,
+                    "name": "Master wand"
                 }
             ],
             "logCount": 1
@@ -7059,11 +7071,23 @@
             "logName": "magic_training_arena",
             "include": [
                 {
+                    "id": 6908,
+                    "name": "Beginner wand"
+                },
+                {
                     "id": 6910,
                     "name": "Apprentice wand"
+                },
+                {
+                    "id": 6912,
+                    "name": "Teacher wand"
+                },
+                {
+                    "id": 6914,
+                    "name": "Master wand"
                 }
             ],
-            "logCount": 1
+            "logCount": 2
         },
         "uuid": "cf28416e-9126-4ec3-b375-d3e7b84b89b4"
     },
@@ -7079,11 +7103,23 @@
             "logName": "magic_training_arena",
             "include": [
                 {
+                    "id": 6908,
+                    "name": "Beginner wand"
+                },
+                {
+                    "id": 6910,
+                    "name": "Apprentice wand"
+                },
+                {
                     "id": 6912,
                     "name": "Teacher wand"
+                },
+                {
+                    "id": 6914,
+                    "name": "Master wand"
                 }
             ],
-            "logCount": 1
+            "logCount": 3
         },
         "uuid": "99060197-8200-4f3f-8e36-9bdb3bae4daa"
     },
@@ -7871,11 +7907,79 @@
             "logName": "chompy_bird_hunting",
             "include": [
                 {
+                    "id": 2978,
+                    "name": "Chompy bird hat (ogre bowman)"
+                },
+                {
+                    "id": 2979,
+                    "name": "Chompy bird hat (bowman)"
+                },
+                {
+                    "id": 2980,
+                    "name": "Chompy bird hat (ogre yeoman)"
+                },
+                {
+                    "id": 2981,
+                    "name": "Chompy bird hat (yeoman)"
+                },
+                {
+                    "id": 2982,
+                    "name": "Chompy bird hat (ogre marksman)"
+                },
+                {
                     "id": 2983,
                     "name": "Chompy bird hat (marksman)"
+                },
+                {
+                    "id": 2984,
+                    "name": "Chompy bird hat (ogre woodsman)"
+                },
+                {
+                    "id": 2985,
+                    "name": "Chompy bird hat (woodsman)"
+                },
+                {
+                    "id": 2986,
+                    "name": "Chompy bird hat (ogre forester)"
+                },
+                {
+                    "id": 2987,
+                    "name": "Chompy bird hat (forester)"
+                },
+                {
+                    "id": 2988,
+                    "name": "Chompy bird hat (ogre bowmaster)"
+                },
+                {
+                    "id": 2989,
+                    "name": "Chompy bird hat (bowmaster)"
+                },
+                {
+                    "id": 2990,
+                    "name": "Chompy bird hat (ogre expert)"
+                },
+                {
+                    "id": 2991,
+                    "name": "Chompy bird hat (expert)"
+                },
+                {
+                    "id": 2992,
+                    "name": "Chompy bird hat (ogre dragon archer)"
+                },
+                {
+                    "id": 2993,
+                    "name": "Chompy bird hat (dragon archer)"
+                },
+                {
+                    "id": 2994,
+                    "name": "Chompy bird hat (ogre expert dragon archer)"
+                },
+                {
+                    "id": 2995,
+                    "name": "Chompy bird hat (expert dragon archer)"
                 }
             ],
-            "logCount": 1
+            "logCount": 6
         },
         "uuid": "1d7c9237-a900-44f7-92e0-9013fb45dda8"
     },
@@ -7884,7 +7988,7 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "http://oldschool.runescape.wiki/images/d/df/Tea_flask.png?176d3",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Tea_flask.png",
         "colLogData": {
             "category": "Other",
@@ -7893,6 +7997,30 @@
                 {
                     "id": 25617,
                     "name": "Tea flask"
+                },
+                {
+                    "id": 25623,
+                    "name": "Rune satchel"
+                },
+                {
+                    "id": 25619,
+                    "name": "Green satchel"
+                },
+                {
+                    "id": 25620,
+                    "name": "Red satchel"
+                },
+                {
+                    "id": 25621,
+                    "name": "Black satchel"
+                },
+                {
+                    "id": 25622,
+                    "name": "Gold satchel"
+                },
+                {
+                    "id": 25618,
+                    "name": "Plain satchel"
                 }
             ],
             "logCount": 1
@@ -7904,18 +8032,42 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "http://oldschool.runescape.wiki/images/a/a3/Rune_satchel.png",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Rune_satchel.png",
         "colLogData": {
             "category": "Other",
             "logName": "creature_creation",
             "include": [
                 {
+                    "id": 25617,
+                    "name": "Tea flask"
+                },
+                {
                     "id": 25623,
                     "name": "Rune satchel"
+                },
+                {
+                    "id": 25619,
+                    "name": "Green satchel"
+                },
+                {
+                    "id": 25620,
+                    "name": "Red satchel"
+                },
+                {
+                    "id": 25621,
+                    "name": "Black satchel"
+                },
+                {
+                    "id": 25622,
+                    "name": "Gold satchel"
+                },
+                {
+                    "id": 25618,
+                    "name": "Plain satchel"
                 }
             ],
-            "logCount": 1
+            "logCount": 2
         },
         "uuid": "740a7a6e-efdf-4cc0-bac3-b27e38445ea3"
     },
@@ -7924,18 +8076,42 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "https://oldschool.runescape.wiki/images/0/06/Green_satchel.png?c2fed",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Green_satchel.png",
         "colLogData": {
             "category": "Other",
             "logName": "creature_creation",
             "include": [
                 {
+                    "id": 25617,
+                    "name": "Tea flask"
+                },
+                {
+                    "id": 25623,
+                    "name": "Rune satchel"
+                },
+                {
                     "id": 25619,
                     "name": "Green satchel"
+                },
+                {
+                    "id": 25620,
+                    "name": "Red satchel"
+                },
+                {
+                    "id": 25621,
+                    "name": "Black satchel"
+                },
+                {
+                    "id": 25622,
+                    "name": "Gold satchel"
+                },
+                {
+                    "id": 25618,
+                    "name": "Plain satchel"
                 }
             ],
-            "logCount": 1
+            "logCount": 3
         },
         "uuid": "977865aa-cb22-4d3f-ad89-d7959e99570b"
     },
@@ -7944,18 +8120,42 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "https://oldschool.runescape.wiki/images/5/57/Red_satchel.png?19ca9",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Red_satchel.png",
         "colLogData": {
             "category": "Other",
             "logName": "creature_creation",
             "include": [
                 {
+                    "id": 25617,
+                    "name": "Tea flask"
+                },
+                {
+                    "id": 25623,
+                    "name": "Rune satchel"
+                },
+                {
+                    "id": 25619,
+                    "name": "Green satchel"
+                },
+                {
                     "id": 25620,
                     "name": "Red satchel"
+                },
+                {
+                    "id": 25621,
+                    "name": "Black satchel"
+                },
+                {
+                    "id": 25622,
+                    "name": "Gold satchel"
+                },
+                {
+                    "id": 25618,
+                    "name": "Plain satchel"
                 }
             ],
-            "logCount": 1
+            "logCount": 4
         },
         "uuid": "122ccccc-fb1d-4d01-bd9e-78397735ffee"
     },
@@ -7964,18 +8164,42 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "http://oldschool.runescape.wiki/images/d/da/Black_satchel.png?493a6",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Black_satchel.png",
         "colLogData": {
             "category": "Other",
             "logName": "creature_creation",
             "include": [
                 {
+                    "id": 25617,
+                    "name": "Tea flask"
+                },
+                {
+                    "id": 25623,
+                    "name": "Rune satchel"
+                },
+                {
+                    "id": 25619,
+                    "name": "Green satchel"
+                },
+                {
+                    "id": 25620,
+                    "name": "Red satchel"
+                },
+                {
                     "id": 25621,
                     "name": "Black satchel"
+                },
+                {
+                    "id": 25622,
+                    "name": "Gold satchel"
+                },
+                {
+                    "id": 25618,
+                    "name": "Plain satchel"
                 }
             ],
-            "logCount": 1
+            "logCount": 5
         },
         "uuid": "8817aa4f-8fb2-4210-b506-d9f111442060"
     },
@@ -7984,18 +8208,42 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "https://oldschool.runescape.wiki/images/c/c6/Gold_satchel.png?a9d55",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Gold_satchel.png",
         "colLogData": {
             "category": "Other",
             "logName": "creature_creation",
             "include": [
                 {
+                    "id": 25617,
+                    "name": "Tea flask"
+                },
+                {
+                    "id": 25623,
+                    "name": "Rune satchel"
+                },
+                {
+                    "id": 25619,
+                    "name": "Green satchel"
+                },
+                {
+                    "id": 25620,
+                    "name": "Red satchel"
+                },
+                {
+                    "id": 25621,
+                    "name": "Black satchel"
+                },
+                {
                     "id": 25622,
                     "name": "Gold satchel"
+                },
+                {
+                    "id": 25618,
+                    "name": "Plain satchel"
                 }
             ],
-            "logCount": 1
+            "logCount": 6
         },
         "uuid": "7e168420-ec5d-4e6f-be37-6c070e257d1c"
     },
@@ -8004,18 +8252,42 @@
         "name": "Get 1 unique from Creature Creation",
         "tip": "Can be received as a drop from the Creature Creation \"Minigame\". Make a abominiation with two different ingredients, mix together and murder. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Creature_Creation",
-        "wikiImage": "https://oldschool.runescape.wiki/images/d/da/Plain_satchel.png",
+        "wikiImage": "https://oldschool.runescape.wiki/images/Frogeel.png",
         "assetImage": "Plain_satchel.png",
         "colLogData": {
             "category": "Other",
             "logName": "creature_creation",
             "include": [
                 {
+                    "id": 25617,
+                    "name": "Tea flask"
+                },
+                {
+                    "id": 25623,
+                    "name": "Rune satchel"
+                },
+                {
+                    "id": 25619,
+                    "name": "Green satchel"
+                },
+                {
+                    "id": 25620,
+                    "name": "Red satchel"
+                },
+                {
+                    "id": 25621,
+                    "name": "Black satchel"
+                },
+                {
+                    "id": 25622,
+                    "name": "Gold satchel"
+                },
+                {
                     "id": 25618,
                     "name": "Plain satchel"
                 }
             ],
-            "logCount": 1
+            "logCount": 7
         },
         "uuid": "e0cd073e-8844-43f0-bff7-dad3bdf88c26"
     },

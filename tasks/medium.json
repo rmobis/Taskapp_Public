@@ -8711,11 +8711,23 @@
             "logName": "magic_training_arena",
             "include": [
                 {
+                    "id": 6908,
+                    "name": "Beginner wand"
+                },
+                {
+                    "id": 6910,
+                    "name": "Apprentice wand"
+                },
+                {
+                    "id": 6912,
+                    "name": "Teacher wand"
+                },
+                {
                     "id": 6914,
                     "name": "Master wand"
                 }
             ],
-            "logCount": 1
+            "logCount": 4
         },
         "uuid": "7ca0b188-0f4a-4ecb-b5ab-fd725402ffff"
     },
@@ -9401,10 +9413,10 @@
     },
     {
         "_id": 62,
-        "name": "Get the Guilded smile flag",
+        "name": "Get the Gilded smile flag",
         "tip": "Can be purchased as a reward from the Trouble Brewing Minigame. Fill and deposit 100 buckets of water. Enjoy your AFK time. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Trouble_Brewing",
-        "wikiImage": "https://oldschool.runescape.wiki/images/7/7f/Guilded_smile_flag.png?f5de7",
+        "wikiImage": "https://oldschool.runescape.wiki/images/7/7f/Gilded_smile_flag.png?f5de7",
         "assetImage": "Guilded_smile_flag.png",
         "colLogData": {
             "category": "Minigames",
@@ -9639,11 +9651,79 @@
             "logName": "chompy_bird_hunting",
             "include": [
                 {
+                    "id": 2978,
+                    "name": "Chompy bird hat (ogre bowman)"
+                },
+                {
+                    "id": 2979,
+                    "name": "Chompy bird hat (bowman)"
+                },
+                {
+                    "id": 2980,
+                    "name": "Chompy bird hat (ogre yeoman)"
+                },
+                {
+                    "id": 2981,
+                    "name": "Chompy bird hat (yeoman)"
+                },
+                {
+                    "id": 2982,
+                    "name": "Chompy bird hat (ogre marksman)"
+                },
+                {
+                    "id": 2983,
+                    "name": "Chompy bird hat (marksman)"
+                },
+                {
+                    "id": 2984,
+                    "name": "Chompy bird hat (ogre woodsman)"
+                },
+                {
+                    "id": 2985,
+                    "name": "Chompy bird hat (woodsman)"
+                },
+                {
                     "id": 2986,
                     "name": "Chompy bird hat (ogre forester)"
+                },
+                {
+                    "id": 2987,
+                    "name": "Chompy bird hat (forester)"
+                },
+                {
+                    "id": 2988,
+                    "name": "Chompy bird hat (ogre bowmaster)"
+                },
+                {
+                    "id": 2989,
+                    "name": "Chompy bird hat (bowmaster)"
+                },
+                {
+                    "id": 2990,
+                    "name": "Chompy bird hat (ogre expert)"
+                },
+                {
+                    "id": 2991,
+                    "name": "Chompy bird hat (expert)"
+                },
+                {
+                    "id": 2992,
+                    "name": "Chompy bird hat (ogre dragon archer)"
+                },
+                {
+                    "id": 2993,
+                    "name": "Chompy bird hat (dragon archer)"
+                },
+                {
+                    "id": 2994,
+                    "name": "Chompy bird hat (ogre expert dragon archer)"
+                },
+                {
+                    "id": 2995,
+                    "name": "Chompy bird hat (expert dragon archer)"
                 }
             ],
-            "logCount": 1
+            "logCount": 9
         },
         "uuid": "a2c03154-445f-41d2-8cfc-db106262a64e"
     },

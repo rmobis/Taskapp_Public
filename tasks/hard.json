@@ -2687,6 +2687,14 @@
                 {
                     "id": 28248,
                     "name": "Butch"
+                },
+                {
+                    "id": 23757,
+                    "name": "Youngllef"
+                },
+                {
+                    "id": 30888,
+                    "name": "Yami"
                 }
             ],
             "logCount": 1
@@ -14685,11 +14693,79 @@
             "logName": "chompy_bird_hunting",
             "include": [
                 {
+                    "id": 2978,
+                    "name": "Chompy bird hat (ogre bowman)"
+                },
+                {
+                    "id": 2979,
+                    "name": "Chompy bird hat (bowman)"
+                },
+                {
+                    "id": 2980,
+                    "name": "Chompy bird hat (ogre yeoman)"
+                },
+                {
+                    "id": 2981,
+                    "name": "Chompy bird hat (yeoman)"
+                },
+                {
+                    "id": 2982,
+                    "name": "Chompy bird hat (ogre marksman)"
+                },
+                {
+                    "id": 2983,
+                    "name": "Chompy bird hat (marksman)"
+                },
+                {
+                    "id": 2984,
+                    "name": "Chompy bird hat (ogre woodsman)"
+                },
+                {
+                    "id": 2985,
+                    "name": "Chompy bird hat (woodsman)"
+                },
+                {
+                    "id": 2986,
+                    "name": "Chompy bird hat (ogre forester)"
+                },
+                {
+                    "id": 2987,
+                    "name": "Chompy bird hat (forester)"
+                },
+                {
+                    "id": 2988,
+                    "name": "Chompy bird hat (ogre bowmaster)"
+                },
+                {
+                    "id": 2989,
+                    "name": "Chompy bird hat (bowmaster)"
+                },
+                {
                     "id": 2990,
                     "name": "Chompy bird hat (ogre expert)"
+                },
+                {
+                    "id": 2991,
+                    "name": "Chompy bird hat (expert)"
+                },
+                {
+                    "id": 2992,
+                    "name": "Chompy bird hat (ogre dragon archer)"
+                },
+                {
+                    "id": 2993,
+                    "name": "Chompy bird hat (dragon archer)"
+                },
+                {
+                    "id": 2994,
+                    "name": "Chompy bird hat (ogre expert dragon archer)"
+                },
+                {
+                    "id": 2995,
+                    "name": "Chompy bird hat (expert dragon archer)"
                 }
             ],
-            "logCount": 1
+            "logCount": 13
         },
         "uuid": "4a9df3ae-7a23-4c65-a5c1-bb65d0c7d2a8"
     },
@@ -15617,8 +15693,8 @@
                     "name": "Crystal armour seed"
                 },
                 {
-                    "id": 23959,
-                    "name": "Enhanced crystal teleport seed"
+                    "id": 25859,
+                    "name": "Enhanced crystal weapon seed"
                 },
                 {
                     "id": 4207,
@@ -15645,8 +15721,8 @@
                     "name": "Crystal armour seed"
                 },
                 {
-                    "id": 23959,
-                    "name": "Enhanced crystal teleport seed"
+                    "id": 25859,
+                    "name": "Enhanced crystal weapon seed"
                 },
                 {
                     "id": 4207,
@@ -15805,6 +15881,10 @@
                     "name": "Dark acorn"
                 },
                 {
+                    "id": 24844,
+                    "name": "Ring of endurance"
+                },
+                {
                     "id": 24740,
                     "name": "Strange old lockpick (full)"
                 },
@@ -15885,6 +15965,10 @@
                     "name": "Strange old lockpick (full)"
                 },
                 {
+                    "id": 24844,
+                    "name": "Ring of endurance"
+                },
+                {
                     "id": 24763,
                     "name": "Mysterious page"
                 },
@@ -15959,6 +16043,10 @@
                 {
                     "id": 24740,
                     "name": "Strange old lockpick (full)"
+                },
+                {
+                    "id": 24844,
+                    "name": "Ring of endurance"
                 },
                 {
                     "id": 24763,
@@ -16037,6 +16125,10 @@
                     "name": "Strange old lockpick (full)"
                 },
                 {
+                    "id": 24844,
+                    "name": "Ring of endurance"
+                },
+                {
                     "id": 24763,
                     "name": "Mysterious page"
                 },
@@ -16113,6 +16205,10 @@
                     "name": "Strange old lockpick (full)"
                 },
                 {
+                    "id": 24844,
+                    "name": "Ring of endurance"
+                },
+                {
                     "id": 24763,
                     "name": "Mysterious page"
                 },
@@ -16187,6 +16283,10 @@
                 {
                     "id": 24740,
                     "name": "Strange old lockpick (full)"
+                },
+                {
+                    "id": 24844,
+                    "name": "Ring of endurance"
                 },
                 {
                     "id": 24763,
@@ -18599,8 +18699,8 @@
     },
     {
         "_id": 198,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -18652,8 +18752,8 @@
     },
     {
         "_id": 199,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -18714,8 +18814,8 @@
     },
     {
         "_id": 200,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",

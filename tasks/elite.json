@@ -483,7 +483,7 @@
         },
         "uuid": "e5cda43a-6499-4217-b338-9df09310c56d"
     },
-     {
+    {
         "_id": 6,
         "name": "Get a unique from Unsired",
         "tip": "Can be received as a drop from the Abyssal Sire Boss. ",
@@ -553,6 +553,34 @@
                 {
                     "id": 21009,
                     "name": "Dragon sword"
+                },
+                {
+                    "id": 22966,
+                    "name": "Hydra's claw"
+                },
+                {
+                    "id": 22969,
+                    "name": "Hydra's heart"
+                },
+                {
+                    "id": 22971,
+                    "name": "Hydra's fang"
+                },
+                {
+                    "id": 22973,
+                    "name": "Hydra's eye"
+                },
+                {
+                    "id": 22983,
+                    "name": "Hydra leather"
+                },
+                {
+                    "id": 22988,
+                    "name": "Hydra tail"
+                },
+                {
+                    "id": 23077,
+                    "name": "Alchemical hydra heads"
                 }
             ],
             "logCount": 6
@@ -1037,7 +1065,7 @@
     },
     {
         "_id": 15,
-        "name": "Get 1 unique crystal/stone from Cerberus",
+        "name": "Get 1 unique from Cerberus",
         "tip": "Received as a drop from the Cerberus Boss. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Cerberus",
         "wikiImage": "https://oldschool.runescape.wiki/images/6/6b/Eternal_crystal.png?944ec",
@@ -1073,7 +1101,7 @@
     },
     {
         "_id": 16,
-        "name": "Get 1 unique crystal/stone from Cerberus",
+        "name": "Get 1 unique from Cerberus",
         "tip": "Received as a drop from the Cerberus Boss. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Cerberus",
         "wikiImage": "https://oldschool.runescape.wiki/images/6/6b/Eternal_crystal.png?944ec",
@@ -2641,30 +2669,6 @@
                 {
                     "id": 26235,
                     "name": "Zaryte vambraces"
-                },
-                {
-                    "id": 26370,
-                    "name": "Ancient hilt"
-                },
-                {
-                    "id": 26372,
-                    "name": "Nihil horn"
-                },
-                {
-                    "id": 26376,
-                    "name": "Torva full helm (damaged)"
-                },
-                {
-                    "id": 26378,
-                    "name": "Torva platebody (damaged)"
-                },
-                {
-                    "id": 26380,
-                    "name": "Torva platelegs (damaged)"
-                },
-                {
-                    "id": 26235,
-                    "name": "Zaryte vambraces"
                 }
             ],
             "logCount": 16
@@ -3125,6 +3129,14 @@
                 {
                     "id": 28248,
                     "name": "Butch"
+                },
+                {
+                    "id": 23757,
+                    "name": "Youngllef"
+                },
+                {
+                    "id": 30888,
+                    "name": "Yami"
                 }
             ],
             "logCount": 2
@@ -3317,6 +3329,14 @@
                 {
                     "id": 28248,
                     "name": "Butch"
+                },
+                {
+                    "id": 23757,
+                    "name": "Youngllef"
+                },
+                {
+                    "id": 30888,
+                    "name": "Yami"
                 }
             ],
             "logCount": 3
@@ -3509,6 +3529,14 @@
                 {
                     "id": 28248,
                     "name": "Butch"
+                },
+                {
+                    "id": 23757,
+                    "name": "Youngllef"
+                },
+                {
+                    "id": 30888,
+                    "name": "Yami"
                 }
             ],
             "logCount": 4
@@ -3576,16 +3604,16 @@
                     "name": "Voidwaker gem"
                 },
                 {
-                    "id": 22542,
-                    "name": "Viggora's chainmace (u)"
+                    "id": 27667,
+                    "name": "Claws of callisto"
                 },
                 {
-                    "id": 22547,
-                    "name": "Craw's' bow (u)"
+                    "id": 27670,
+                    "name": "Fangs of venenatis"
                 },
                 {
-                    "id": 22552,
-                    "name": "Thammaron's sceptre (u)"
+                    "id": 27673,
+                    "name": "Skull of vet'ion"
                 },
                 {
                     "id": 12601,
@@ -3641,16 +3669,16 @@
                     "name": "Voidwaker gem"
                 },
                 {
-                    "id": 22542,
-                    "name": "Viggora's chainmace (u)"
+                    "id": 27667,
+                    "name": "Claws of callisto"
                 },
                 {
-                    "id": 22547,
-                    "name": "Craw's' bow (u)"
+                    "id": 27670,
+                    "name": "Fangs of venenatis"
                 },
                 {
-                    "id": 22552,
-                    "name": "Thammaron's sceptre (u)"
+                    "id": 27673,
+                    "name": "Skull of vet'ion"
                 },
                 {
                     "id": 12601,
@@ -3706,16 +3734,16 @@
                     "name": "Voidwaker gem"
                 },
                 {
-                    "id": 22542,
-                    "name": "Viggora's chainmace (u)"
+                    "id": 27667,
+                    "name": "Claws of callisto"
                 },
                 {
-                    "id": 22547,
-                    "name": "Craw's' bow (u)"
+                    "id": 27670,
+                    "name": "Fangs of venenatis"
                 },
                 {
-                    "id": 22552,
-                    "name": "Thammaron's sceptre (u)"
+                    "id": 27673,
+                    "name": "Skull of vet'ion"
                 },
                 {
                     "id": 12601,
@@ -3771,16 +3799,16 @@
                     "name": "Voidwaker gem"
                 },
                 {
-                    "id": 22542,
-                    "name": "Viggora's chainmace (u)"
+                    "id": 27667,
+                    "name": "Claws of callisto"
                 },
                 {
-                    "id": 22547,
-                    "name": "Craw's' bow (u)"
+                    "id": 27670,
+                    "name": "Fangs of venenatis"
                 },
                 {
-                    "id": 22552,
-                    "name": "Thammaron's sceptre (u)"
+                    "id": 27673,
+                    "name": "Skull of vet'ion"
                 },
                 {
                     "id": 12601,
@@ -17945,6 +17973,10 @@
             "logName": "Master Treasure Trails",
             "include": [
                 {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
+                {
                     "id": 19724,
                     "name": "Left eye patch"
                 },
@@ -18148,6 +18180,10 @@
             "category": "Clues",
             "logName": "Master Treasure Trails",
             "include": [
+                {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
                 {
                     "id": 19724,
                     "name": "Left eye patch"
@@ -18353,6 +18389,10 @@
             "logName": "Master Treasure Trails",
             "include": [
                 {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
+                {
                     "id": 19724,
                     "name": "Left eye patch"
                 },
@@ -18556,6 +18596,10 @@
             "category": "Clues",
             "logName": "Master Treasure Trails",
             "include": [
+                {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
                 {
                     "id": 19724,
                     "name": "Left eye patch"
@@ -18761,6 +18805,10 @@
             "logName": "Master Treasure Trails",
             "include": [
                 {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
+                {
                     "id": 19724,
                     "name": "Left eye patch"
                 },
@@ -18964,6 +19012,10 @@
             "category": "Clues",
             "logName": "Master Treasure Trails",
             "include": [
+                {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
                 {
                     "id": 19724,
                     "name": "Left eye patch"
@@ -19169,6 +19221,10 @@
             "logName": "Master Treasure Trails",
             "include": [
                 {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
+                {
                     "id": 19724,
                     "name": "Left eye patch"
                 },
@@ -19372,6 +19428,10 @@
             "category": "Clues",
             "logName": "Master Treasure Trails",
             "include": [
+                {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
                 {
                     "id": 19724,
                     "name": "Left eye patch"
@@ -19577,6 +19637,10 @@
             "logName": "Master Treasure Trails",
             "include": [
                 {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
+                {
                     "id": 19724,
                     "name": "Left eye patch"
                 },
@@ -19780,6 +19844,10 @@
             "category": "Clues",
             "logName": "Master Treasure Trails",
             "include": [
+                {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
                 {
                     "id": 19724,
                     "name": "Left eye patch"
@@ -19985,6 +20053,10 @@
             "logName": "Master Treasure Trails",
             "include": [
                 {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
+                {
                     "id": 19724,
                     "name": "Left eye patch"
                 },
@@ -20188,6 +20260,10 @@
             "category": "Clues",
             "logName": "Master Treasure Trails",
             "include": [
+                {
+                    "id": 23185,
+                    "name": "Ring of 3rd age"
+                },
                 {
                     "id": 19724,
                     "name": "Left eye patch"
@@ -20947,7 +21023,7 @@
     },
     {
         "_id": 111,
-        "name": "Upgrade to the (expert) dragon archer headpiece",
+        "name": "Upgrade to the dragon archer headpiece",
         "tip": "Guarenteed reward from Chompy bird hunting. The first time you receive this task, you must get the Dragon Archer Hat. Second time get the Expert Dragon Archer Hat. ",
         "wikiLink": "https://oldschool.runescape.wiki/w/Chompy_bird_hunting",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/6/62/Chompy_bird_hat_%28expert_dragon_archer%29_detail.png/110px-Chompy_bird_hat_%28expert_dragon_archer%29_detail.png",
@@ -20957,31 +21033,167 @@
             "logName": "Chompy Bird Hunting",
             "include": [
                 {
+                    "id": 2978,
+                    "name": "Chompy bird hat (ogre bowman)"
+                },
+                {
+                    "id": 2979,
+                    "name": "Chompy bird hat (bowman)"
+                },
+                {
+                    "id": 2980,
+                    "name": "Chompy bird hat (ogre yeoman)"
+                },
+                {
+                    "id": 2981,
+                    "name": "Chompy bird hat (yeoman)"
+                },
+                {
+                    "id": 2982,
+                    "name": "Chompy bird hat (ogre marksman)"
+                },
+                {
+                    "id": 2983,
+                    "name": "Chompy bird hat (marksman)"
+                },
+                {
+                    "id": 2984,
+                    "name": "Chompy bird hat (ogre woodsman)"
+                },
+                {
+                    "id": 2985,
+                    "name": "Chompy bird hat (woodsman)"
+                },
+                {
+                    "id": 2986,
+                    "name": "Chompy bird hat (ogre forester)"
+                },
+                {
+                    "id": 2987,
+                    "name": "Chompy bird hat (forester)"
+                },
+                {
+                    "id": 2988,
+                    "name": "Chompy bird hat (ogre bowmaster)"
+                },
+                {
+                    "id": 2989,
+                    "name": "Chompy bird hat (bowmaster)"
+                },
+                {
+                    "id": 2990,
+                    "name": "Chompy bird hat (ogre expert)"
+                },
+                {
+                    "id": 2991,
+                    "name": "Chompy bird hat (expert)"
+                },
+                {
+                    "id": 2992,
+                    "name": "Chompy bird hat (ogre dragon archer)"
+                },
+                {
                     "id": 2993,
                     "name": "Chompy bird hat (dragon archer)"
-                }
-            ],
-            "logCount": 1
-        },
-        "uuid": "3e7a6706-dff2-452a-8e06-1170d8a13673"
-    },
-    {
-        "_id": 112,
-        "name": "Upgrade to the (expert) dragon archer headpiece",
-        "tip": "Guarenteed reward from Chompy bird hunting. The first time you receive this task, you must get the Dragon Archer Hat. Second time get the Expert Dragon Archer Hat. ",
-        "wikiLink": "https://oldschool.runescape.wiki/w/Chompy_bird_hunting",
-        "wikiImage": "https://oldschool.runescape.wiki/images/thumb/6/62/Chompy_bird_hat_%28expert_dragon_archer%29_detail.png/110px-Chompy_bird_hat_%28expert_dragon_archer%29_detail.png",
-        "assetImage": "110px-Chompy_bird_hat_expert_dragon_archer_detail.png",
-        "colLogData": {
-            "category": "Other",
-            "logName": "Chompy Bird Hunting",
-            "include": [
+                },
+                {
+                    "id": 2994,
+                    "name": "Chompy bird hat (ogre expert dragon archer)"
+                },
                 {
                     "id": 2995,
                     "name": "Chompy bird hat (expert dragon archer)"
                 }
             ],
-            "logCount": 1
+            "logCount": 16
+        },
+        "uuid": "3e7a6706-dff2-452a-8e06-1170d8a13673"
+    },
+    {
+        "_id": 112,
+        "name": "Upgrade to the expert dragon archer headpiece",
+        "tip": "Guarenteed reward from Chompy bird hunting. The first time you receive this task, you must get the Dragon Archer Hat. Second time get the Expert Dragon Archer Hat. ",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Chompy_bird_hunting",
+        "wikiImage": "https://oldschool.runescape.wiki/images/thumb/6/62/Chompy_bird_hat_%28expert_dragon_archer%29_detail.png/110px-Chompy_bird_hat_%28expert_dragon_archer%29_detail.png",
+        "assetImage": "110px-Chompy_bird_hat_expert_dragon_archer_detail.png",
+        "colLogData": {
+            "category": "Other",
+            "logName": "Chompy Bird Hunting",
+            "include": [
+                {
+                    "id": 2978,
+                    "name": "Chompy bird hat (ogre bowman)"
+                },
+                {
+                    "id": 2979,
+                    "name": "Chompy bird hat (bowman)"
+                },
+                {
+                    "id": 2980,
+                    "name": "Chompy bird hat (ogre yeoman)"
+                },
+                {
+                    "id": 2981,
+                    "name": "Chompy bird hat (yeoman)"
+                },
+                {
+                    "id": 2982,
+                    "name": "Chompy bird hat (ogre marksman)"
+                },
+                {
+                    "id": 2983,
+                    "name": "Chompy bird hat (marksman)"
+                },
+                {
+                    "id": 2984,
+                    "name": "Chompy bird hat (ogre woodsman)"
+                },
+                {
+                    "id": 2985,
+                    "name": "Chompy bird hat (woodsman)"
+                },
+                {
+                    "id": 2986,
+                    "name": "Chompy bird hat (ogre forester)"
+                },
+                {
+                    "id": 2987,
+                    "name": "Chompy bird hat (forester)"
+                },
+                {
+                    "id": 2988,
+                    "name": "Chompy bird hat (ogre bowmaster)"
+                },
+                {
+                    "id": 2989,
+                    "name": "Chompy bird hat (bowmaster)"
+                },
+                {
+                    "id": 2990,
+                    "name": "Chompy bird hat (ogre expert)"
+                },
+                {
+                    "id": 2991,
+                    "name": "Chompy bird hat (expert)"
+                },
+                {
+                    "id": 2992,
+                    "name": "Chompy bird hat (ogre dragon archer)"
+                },
+                {
+                    "id": 2993,
+                    "name": "Chompy bird hat (dragon archer)"
+                },
+                {
+                    "id": 2994,
+                    "name": "Chompy bird hat (ogre expert dragon archer)"
+                },
+                {
+                    "id": 2995,
+                    "name": "Chompy bird hat (expert dragon archer)"
+                }
+            ],
+            "logCount": 18
         },
         "uuid": "031c79be-210b-4f64-9775-3fefd33561b9"
     },
@@ -21669,6 +21881,10 @@
                     "name": "Strange old lockpick (full)"
                 },
                 {
+                    "id": 24844,
+                    "name": "Ring of endurance"
+                },
+                {
                     "id": 24763,
                     "name": "Mysterious page"
                 },
@@ -21745,6 +21961,10 @@
                     "name": "Strange old lockpick (full)"
                 },
                 {
+                    "id": 24844,
+                    "name": "Ring of endurance"
+                },
+                {
                     "id": 24763,
                     "name": "Mysterious page"
                 },
@@ -21819,6 +22039,10 @@
                 {
                     "id": 24740,
                     "name": "Strange old lockpick (full)"
+                },
+                {
+                    "id": 24844,
+                    "name": "Ring of endurance"
                 },
                 {
                     "id": 24763,
@@ -22583,6 +22807,18 @@
                 {
                     "id": 22305,
                     "name": "Ancient relic"
+                },
+                {
+                    "id": 22542,
+                    "name": "Viggora's chainmace (u)"
+                },
+                {
+                    "id": 22547,
+                    "name": "Craw's' bow (u)"
+                },
+                {
+                    "id": 22552,
+                    "name": "Thammaron's sceptre (u)"
                 }
             ],
             "logCount": 1
@@ -22631,6 +22867,18 @@
                 {
                     "id": 22305,
                     "name": "Ancient relic"
+                },
+                {
+                    "id": 22542,
+                    "name": "Viggora's chainmace (u)"
+                },
+                {
+                    "id": 22547,
+                    "name": "Craw's' bow (u)"
+                },
+                {
+                    "id": 22552,
+                    "name": "Thammaron's sceptre (u)"
                 }
             ],
             "logCount": 2
@@ -22679,6 +22927,18 @@
                 {
                     "id": 22305,
                     "name": "Ancient relic"
+                },
+                {
+                    "id": 22542,
+                    "name": "Viggora's chainmace (u)"
+                },
+                {
+                    "id": 22547,
+                    "name": "Craw's' bow (u)"
+                },
+                {
+                    "id": 22552,
+                    "name": "Thammaron's sceptre (u)"
                 }
             ],
             "logCount": 3
@@ -22727,6 +22987,18 @@
                 {
                     "id": 22305,
                     "name": "Ancient relic"
+                },
+                {
+                    "id": 22542,
+                    "name": "Viggora's chainmace (u)"
+                },
+                {
+                    "id": 22547,
+                    "name": "Craw's' bow (u)"
+                },
+                {
+                    "id": 22552,
+                    "name": "Thammaron's sceptre (u)"
                 }
             ],
             "logCount": 4
@@ -25129,8 +25401,8 @@
     },
     {
         "_id": 189,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -25191,8 +25463,8 @@
     },
     {
         "_id": 190,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -25253,8 +25525,8 @@
     },
     {
         "_id": 191,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -25315,8 +25587,8 @@
     },
     {
         "_id": 192,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -25377,8 +25649,8 @@
     },
     {
         "_id": 193,
-        "name": "Get 1 unique from Araxxytes/Araxxor",
-        "tip": "Can be obtained when killing Araxxytes/Araxxor",
+        "name": "Get 1 unique from Araxytes/Araxxor",
+        "tip": "Can be obtained when killing Araxytes/Araxxor",
         "wikiLink": "https://oldschool.runescape.wiki/w/Araxxor",
         "wikiImage": "https://oldschool.runescape.wiki/images/thumb/Araxyte_fang_detail.png/200px-Araxyte_fang_detail.png",
         "assetImage": "araxxor_fang.png",
@@ -25581,7 +25853,7 @@
                     "name": "Forgotten lockbox"
                 },
                 {
-                    "id": 30803,
+                    "id": 30805,
                     "name": "Dossier"
                 },
                 {
@@ -25637,7 +25909,7 @@
                     "name": "Forgotten lockbox"
                 },
                 {
-                    "id": 30803,
+                    "id": 30805,
                     "name": "Dossier"
                 },
                 {
@@ -25693,7 +25965,7 @@
                     "name": "Forgotten lockbox"
                 },
                 {
-                    "id": 30803,
+                    "id": 30805,
                     "name": "Dossier"
                 },
                 {
@@ -25749,7 +26021,7 @@
                     "name": "Forgotten lockbox"
                 },
                 {
-                    "id": 30803,
+                    "id": 30805,
                     "name": "Dossier"
                 },
                 {
@@ -25805,7 +26077,7 @@
                     "name": "Forgotten lockbox"
                 },
                 {
-                    "id": 30803,
+                    "id": 30805,
                     "name": "Dossier"
                 },
                 {
@@ -25861,7 +26133,7 @@
                     "name": "Forgotten lockbox"
                 },
                 {
-                    "id": 30803,
+                    "id": 30805,
                     "name": "Dossier"
                 },
                 {
